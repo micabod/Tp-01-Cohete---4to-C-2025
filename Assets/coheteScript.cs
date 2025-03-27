@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class coheteScript : MonoBehaviour
+public class CoheteScript : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
