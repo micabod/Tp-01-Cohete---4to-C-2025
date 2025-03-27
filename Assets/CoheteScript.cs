@@ -21,5 +21,6 @@ public class CoheteScript : MonoBehaviour
     public void Despegue()
     {
         coheteSpeed = 0.1f;
+        //debe activarse el objeto coheteFuego
     }
 }
